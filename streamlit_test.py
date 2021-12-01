@@ -15,7 +15,7 @@ st.write ("""
           """)
           
 
-tickerSymbol = 'AMD'
+tickerSymbol = 'AAPL'
 
 tickerData = yf.Ticker(tickerSymbol)
 
